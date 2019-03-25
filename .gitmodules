@@ -1,0 +1,21 @@
+[submodule "basic"]
+	path = basic
+	url = git@github.com:Truemedia/basic-skill.git
+[submodule "announcement"]
+	path = announcement
+	url = git@github.com:Truemedia/announcement-skillset.git
+[submodule "store"]
+	path = store
+	url = git@github.com:Truemedia/store-skillset.git
+[submodule "iot"]
+	path = iot
+	url = git@github.com:Truemedia/iot-skillset.git
+[submodule "story"]
+	path = story
+	url = git@github.com:Truemedia/story-skillset.git
+[submodule "resource"]
+	path = resource
+	url = git@github.com:Truemedia/resource-skillset.git
+[submodule "fact"]
+	path = fact
+	url = git@github.com:Truemedia/fact-skillset.git
